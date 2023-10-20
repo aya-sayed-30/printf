@@ -18,3 +18,4 @@ int print_string(va_list list)
 		_putchar(str[i]);
 	return (i);
 }
+
